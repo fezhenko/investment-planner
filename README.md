@@ -1,4 +1,4 @@
-# vibe-code-testing
+# investment-planner
 
 Minimal investment planner with a Vue 3 + TypeScript frontend and a Kotlin (Ktor) backend.
 
