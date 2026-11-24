@@ -1,2 +1,2 @@
-rootProject.name = "vibe-code-testing"
+rootProject.name = "investment-planner"
 include("backend")
